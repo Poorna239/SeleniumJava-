@@ -1,0 +1,11 @@
+
+[DEBUG] 2019-08-31 12:39:46.252 [main] Demo_Log4j - This is a debug message
+[INFO ] 2019-08-31 12:39:46.255 [main] Demo_Log4j - This is an information message
+[ERROR] 2019-08-31 12:39:46.255 [main] Demo_Log4j - This is an error
+[WARN ] 2019-08-31 12:39:46.255 [main] Demo_Log4j - This is a warning message
+[FATAL] 2019-08-31 12:39:46.255 [main] Demo_Log4j - This is a fatal message
+[DEBUG] 2019-08-31 12:39:53.891 [main] Demo_Log4j - This is a debug message
+[INFO ] 2019-08-31 12:39:53.893 [main] Demo_Log4j - This is an information message
+[ERROR] 2019-08-31 12:39:53.893 [main] Demo_Log4j - This is an error
+[WARN ] 2019-08-31 12:39:53.893 [main] Demo_Log4j - This is a warning message
+[FATAL] 2019-08-31 12:39:53.893 [main] Demo_Log4j - This is a fatal message

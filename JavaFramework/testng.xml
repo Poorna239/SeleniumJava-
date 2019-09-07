@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" parallel="classes">
+	<test name="Test1">
+		<classes>
+			<class name="testNG_Demo.TestNG_GoogleSearch" />
+			<class name="testNG_Demo.TestNG_GoogleSearch2">
+				<methods>
+					<include name="SearchBMWFIZ">
+				</include>
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test1 -->
+</suite> <!-- Suite1 -->

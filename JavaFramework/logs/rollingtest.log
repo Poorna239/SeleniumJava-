@@ -1,0 +1,5 @@
+2019-08-31 12:29:17,165 DEBUG l.Demo_Log4j [main] This is a debug message
+2019-08-31 12:29:17,171 INFO l.Demo_Log4j [main] This is an information message
+2019-08-31 12:29:17,171 ERROR l.Demo_Log4j [main] This is an error
+2019-08-31 12:29:17,171 WARN l.Demo_Log4j [main] This is a warning message
+2019-08-31 12:29:17,171 FATAL l.Demo_Log4j [main] This is a fatal message
